@@ -1,0 +1,57 @@
+/* Car List Container */
+.car-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Centers the cards */
+    gap: 20px; /* Space between cards */
+    padding: 20px;
+}
+
+/* Individual Car Card */
+.car-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 300px; /* Standard size */
+    transition: transform 0.2s ease-in-out;
+}
+
+.car-card:hover {
+    transform: scale(1.05);
+}
+
+/* "Add to Favorites" Button */
+.add-to-favorites {
+    background-color: yellow;
+    color: black;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.add-to-favorites:hover {
+    background-color: orange;
+}
+
+/* 📱 Responsive Design */
+@media (max-width: 1024px) {
+    .car-list {
+        justify-content: space-around; /* Adjust for medium screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .car-list {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .car-card {
+        width: 90%; /* Full width on smaller screens */
+    }
+}
