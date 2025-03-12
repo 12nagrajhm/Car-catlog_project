@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Tesla Model S",
+      "brand": "Tesla",
+      "year": 2022,
+      "price": 79999,
+      "fuelType": "Electric",
+      "image": "https://source.unsplash.com/400x300/?tesla,car",
+      "description": "A luxury electric sedan with impressive speed and technology."
+    },
+    {
+      "id": 2,
+      "name": "Ford Mustang",
+      "brand": "Ford",
+      "year": 2021,
+      "price": 55999,
+      "fuelType": "Gasoline",
+      "image": "https://source.unsplash.com/400x300/?mustang,car",
+      "description": "An American muscle car with a powerful V8 engine."
+    },
+    {
+      "id": 3,
+      "name": "BMW X5",
+      "brand": "BMW",
+      "year": 2023,
+      "price": 69999,
+      "fuelType": "Hybrid",
+      "image": "https://source.unsplash.com/400x300/?bmw,car",
+      "description": "A luxury SUV with advanced features and comfortable interior."
+    },
+    {
+      "id": 4,
+      "name": "Toyota Corolla",
+      "brand": "Toyota",
+      "year": 2022,
+      "price": 24999,
+      "fuelType": "Gasoline",
+      "image": "https://source.unsplash.com/400x300/?toyota,car",
+      "description": "A reliable and fuel-efficient sedan for everyday use."
+    },
+    {
+      "id": 5,
+      "name": "Honda Civic",
+      "brand": "Honda",
+      "year": 2023,
+      "price": 26999,
+      "fuelType": "Gasoline",
+      "image": "https://source.unsplash.com/400x300/?honda,civic",
+      "description": "A sporty and stylish compact sedan with great performance."
+    },
+    {
+      "id": 6,
+      "name": "Mercedes-Benz GLE",
+      "brand": "Mercedes-Benz",
+      "year": 2023,
+      "price": 78999,
+      "fuelType": "Hybrid",
+      "image": "https://source.unsplash.com/400x300/?mercedes,car",
+      "description": "A premium SUV with cutting-edge technology and design."
+    },
+    {
+      "id": 7,
+      "name": "Audi A4",
+      "brand": "Audi",
+      "year": 2022,
+      "price": 43999,
+      "fuelType": "Gasoline",
+      "image": "https://source.unsplash.com/400x300/?audi,a4",
+      "description": "A luxury sedan with refined driving dynamics and a high-tech interior."
+    },
+    {
+      "id": 8,
+      "name": "Chevrolet Camaro",
+      "brand": "Chevrolet",
+      "year": 2021,
+      "price": 48999,
+      "fuelType": "Gasoline",
+      "image": "https://source.unsplash.com/400x300/?chevrolet,camaro",
+      "description": "A high-performance muscle car with aggressive styling."
+    },
+    {
+      "id": 9,
+      "name": "Hyundai Sonata",
+      "brand": "Hyundai",
+      "year": 2022,
+      "price": 28999,
+      "fuelType": "Hybrid",
+      "image": "https://source.unsplash.com/400x300/?hyundai,sonata",
+      "description": "A sleek and modern sedan with a hybrid engine."
+    },
+    {
+      "id": 10,
+      "name": "Porsche 911",
+      "brand": "Porsche",
+      "year": 2023,
+      "price": 115999,
+      "fuelType": "Gasoline",
+      "image": "https://source.unsplash.com/400x300/?porsche,911",
+      "description": "An iconic sports car with unparalleled performance and design."
+    }
+  ]
+  
